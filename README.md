@@ -35,7 +35,7 @@ OpenStreetMap uses a topological data structure, with four core elements (also k
     + Used with personal token
   + Usage
     + API
-    Make sure you have personal usage token, which you can access from https://openrouteservice.org/dev/#/home.
+    (Make sure you have personal usage token, which you can access from https://openrouteservice.org/dev/#/home)
     ```python
     # Get route by ORS API
     import requests
